@@ -1,0 +1,12 @@
+C:\Repos\Buzy\Busy\bin\Debug\Busy.exe.config
+C:\Repos\Buzy\Busy\bin\Debug\Busy.exe
+C:\Repos\Buzy\Busy\bin\Debug\Busy.pdb
+C:\Repos\Buzy\Busy\bin\Debug\Busy.xml
+C:\Repos\Buzy\Busy\obj\Debug\Busy.vbprojAssemblyReference.cache
+C:\Repos\Buzy\Busy\obj\Debug\Busy.Form1.resources
+C:\Repos\Buzy\Busy\obj\Debug\Busy.Resources.resources
+C:\Repos\Buzy\Busy\obj\Debug\Busy.vbproj.GenerateResource.cache
+C:\Repos\Buzy\Busy\obj\Debug\Busy.vbproj.CoreCompileInputs.cache
+C:\Repos\Buzy\Busy\obj\Debug\Busy.exe
+C:\Repos\Buzy\Busy\obj\Debug\Busy.xml
+C:\Repos\Buzy\Busy\obj\Debug\Busy.pdb
